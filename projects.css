@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: #EA2DB6;
+    width: 100%;
+    height: 10%;
+}
+body{
+    background-image: url(Kagura.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: gold
+}
+h1{
+    color: black;
+    font: bolder;
+}
